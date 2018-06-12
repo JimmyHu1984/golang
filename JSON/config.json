@@ -1,0 +1,23 @@
+﻿{
+  "DiskPath":"C:\\",
+  "WarringVolume":10,
+  "DurationTime":"1h",
+  "RobotToken":"416341999:AAFYEPby4sMrRaBdVNzTDrp9AMTEYdUX9NQ",
+  "ChatRoomID":"254706576",
+  "WarringMessage":"VMWare 07",
+  "ServerList":
+  [
+    {
+      "IP":"172.18.220.64",
+      "Port":"6458"
+    },
+    {
+      "IP":"172.18.220.64",
+      "Port":"6468"
+    },
+    {
+      "IP":"172.18.220.64",
+      "Port":"6478"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+package MDM_KN_COMMAND
+
+// MDM_KN_COMMAND = 0
+const (
+	DETECT_SOCKET  = 1
+	VALIDATE_SOCKET  = 2
+)

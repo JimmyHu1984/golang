@@ -1,0 +1,19 @@
+package MAIN_CMD
+
+const (
+	MDM_KN_COMMAND  = 0	//ok
+	MDM_GR_LOGON   	= 1	//ok
+	MDM_GR_CONFIG  	= 2
+	MDM_GR_USER  	= 3	//ok
+	MDM_GR_STATUS  	= 4
+	MDM_GR_INSURE  	= 5
+	MDM_GR_MANAGE  	= 6
+	MDM_GR_MATCH  	= 7
+	MDM_GF_FRAME  	= 100
+	MDM_GF_GAME  	= 200
+	EVENT_TCP_NETWORK_ECHO  = 0x000A
+)
+
+
+
+
